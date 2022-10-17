@@ -1,4 +1,4 @@
-País,Feriados total,Feriados folga,HDI rank,Human Development Index (HDI) ,Life expectancy at birth,Expected years of schooling,Mean years of schooling,Gross national income (GNI) per capita
+País,Feriados total,Feriados folga,idh_rank,idh,expec_vida,Expected years of schooling,Mean years of schooling,GNI_percapita
 afghanistan,22,17,180,0.478,62.0,10.264,2.985,1824.2
 albania,39,21,67,0.796,76.5,14.448,11.286,14131.1
 algeria,16,12,91,0.745,76.4,14.627,8.069,10800.2
