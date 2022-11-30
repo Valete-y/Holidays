@@ -620,7 +620,7 @@ belarus,7 de Jul,Kupalle (Day 2),Observance
 belarus,17 de Set,National Unity Day,Observance
 belarus,23 de Set,September Equinox,Season
 belarus,14 de Out,Mother's Day,Observance
-belarus,21 de Out,Father's Day,National Holiday
+belarus,21 de Out,Father's Day,Observance
 belarus,2 de Nov,Remembrance Day,Observance
 belarus,7 de Nov,October Revolution Day,National Holiday
 belarus,22 de Dez,December Solstice,Season
@@ -2013,7 +2013,7 @@ fiji,7 de Out,Day off for The Prophet's Birthday,Public Holiday
 fiji,9 de Out,The Prophet's Birthday,Public Holiday
 fiji,10 de Out,Fiji Day,Public Holiday
 fiji,25 de Out,Diwali,Public Holiday
-fiji,13 de Nov,Daylight Saving Time starts,Clock change/Daylight Saving Time
+fiji,14 de Dez,Election Day,Public Holiday
 fiji,22 de Dez,December Solstice,Season
 fiji,25 de Dez,Christmas Day,Public Holiday
 fiji,26 de Dez,Day off for Christmas Day,Public Holiday
@@ -3126,6 +3126,7 @@ kazakhstan,27 de Ago,Special Working Day,Working Day on the weekend
 kazakhstan,29 de Ago,Constitution Day (extra holiday),Public holiday
 kazakhstan,30 de Ago,Constitution Day,Public holiday
 kazakhstan,23 de Set,September Equinox,Season
+kazakhstan,25 de Out,Republic Day,Public holiday
 kazakhstan,1 de Dez,Day of the First President of the Republic of Kazakhstan,Public holiday
 kazakhstan,16 de Dez,Independence Day,Public holiday
 kazakhstan,17 de Dez,Independence Day Holiday,Public holiday
@@ -3148,6 +3149,9 @@ kenya,21 de Jun,June Solstice,Season
 kenya,10 de Jul,Eid al-Adha,Public holiday
 kenya,11 de Jul,Day off for Eid al-Adha,Public holiday
 kenya,9 de Ago,Election Day,Public holiday
+kenya,10 de Set,Day of Mourning for Queen Elizabeth II,Public holiday
+kenya,11 de Set,Day of Mourning for Queen Elizabeth II,Public holiday
+kenya,12 de Set,Day of Mourning for Queen Elizabeth II,Public holiday
 kenya,13 de Set,Inauguration Day,Public holiday
 kenya,23 de Set,September Equinox,Season
 kenya,10 de Out,Huduma Day,Public holiday
@@ -3391,6 +3395,7 @@ liberia,26 de Jul,Independence Day,Public Holiday
 liberia,24 de Ago,Flag Day,Public Holiday
 liberia,23 de Set,September Equinox,Season
 liberia,3 de Nov,Thanksgiving,Public Holiday
+liberia,11 de Nov,National Census Day,Public Holiday
 liberia,29 de Nov,William Tubmans Birthday,Public Holiday
 liberia,21 de Dez,December Solstice,Season
 liberia,25 de Dez,Christmas Day,Public Holiday
@@ -3629,6 +3634,14 @@ malaysia,24 de Out,Diwali/Deepavali,Federal Public Holiday
 malaysia,4 de Nov,Birthday of the Sultan of Perak,State Holiday
 malaysia,11 de Nov,Birthday of the Sultan of Kelantan,State Holiday
 malaysia,12 de Nov,Birthday of the Sultan of Kelantan (Day 2),State Holiday
+malaysia,18 de Nov,Election Eve Holiday,State Holiday
+malaysia,18 de Nov,Election Eve Holiday,State Holiday
+malaysia,18 de Nov,Election Eve Holiday,Federal Public Holiday
+malaysia,19 de Nov,General Elections,State Holiday
+malaysia,19 de Nov,General Elections,State Holiday
+malaysia,19 de Nov,General Elections,Federal Public Holiday
+malaysia,20 de Nov,Day off for General Elections,State Holiday
+malaysia,20 de Nov,Day off for Election Eve Holiday,State Holiday
 malaysia,11 de Dez,Birthday of the Sultan of Selangor,State Holiday
 malaysia,12 de Dez,Day off for Birthday of the Sultan of Selangor,State Holiday
 malaysia,22 de Dez,December Solstice,Season
@@ -3999,6 +4012,7 @@ mongolia,10 de Set,Repression Victims' Day,Observance
 mongolia,23 de Set,September Equinox,Season
 mongolia,1 de Out,Elders' Day,Observance
 mongolia,29 de Out,Capital City Day,Observance
+mongolia,24 de Nov,Genghis Khan Day,Public Holiday
 mongolia,26 de Nov,Republic's Day,Public Holiday
 mongolia,10 de Dez,Human Rights Day,Observance
 mongolia,22 de Dez,December Solstice,Season
@@ -4162,7 +4176,7 @@ namibia,21 de Dez,December Solstice,Season
 namibia,25 de Dez,Christmas Day,Public Holiday
 namibia,26 de Dez,Family Day,Public Holiday
 nauru,1 de Jan,New Year's Day,Public Holiday
-nauru,3 de Jan,New Year's Day observed,Public Holiday
+nauru,3 de Jan,Day off for New Year's Day,Public Holiday
 nauru,31 de Jan,Independence Day,Public Holiday
 nauru,1 de Fev,Independence Day Holiday,Public Holiday
 nauru,8 de Mar,International Women's Day,Public Holiday
@@ -4174,6 +4188,7 @@ nauru,17 de Mai,Constitution Day,Public Holiday
 nauru,21 de Jun,June Solstice,Season
 nauru,1 de Jul,RONPhos Handover,Public Holiday
 nauru,19 de Ago,Day of the Tribes,Public Holiday
+nauru,12 de Set,Remembrance Day,Public Holiday
 nauru,23 de Set,September Equinox,Season
 nauru,25 de Set,Sir Hammer DeRoburt Day,Public Holiday
 nauru,26 de Set,Sir Hammer DeRoburt Day observed,Public Holiday
@@ -4219,6 +4234,7 @@ nepal,4 de Out,Nawami (Dashain),Public Holiday
 nepal,5 de Out,Dashami (Dashain),Public Holiday
 nepal,6 de Out,Ekadashi (Dashain),Public Holiday
 nepal,7 de Out,Duwadashi (Dashain),Public Holiday
+nepal,18 de Out,National Mourning Day,Public Holiday
 nepal,24 de Out,Laxmi Puja (Tihar),Public Holiday
 nepal,25 de Out,Gai Tihar,Public Holiday
 nepal,26 de Out,Gobhardan Pujan (Tihar),Public Holiday
@@ -4226,6 +4242,8 @@ nepal,27 de Out,Bhai Tika (Tihar),Public Holiday
 nepal,30 de Out,Chhat Parwa,Public Holiday
 nepal,8 de Nov,Guru Nanak Jayanti,Optional Holiday
 nepal,11 de Nov,Phalgunanda Jayanti,Optional Holiday
+nepal,20 de Nov,General Election Day,Public Holiday
+nepal,21 de Nov,General Election Holiday,Public Holiday
 nepal,3 de Dez,International Day of Disabled Persons,Optional Holiday
 nepal,8 de Dez,Udhauli Parva,Optional Holiday
 nepal,22 de Dez,December Solstice,Season
@@ -4564,7 +4582,8 @@ oman,30 de Jul,Muharram,Public Holiday
 oman,31 de Jul,Muharram Holiday,Public Holiday
 oman,23 de Set,September Equinox,Season
 oman,9 de Out,The Prophet's Birthday,Public Holiday
-oman,18 de Nov,National Day,Public Holiday
+oman,30 de Nov,National Day,Public Holiday
+oman,1 de Dez,National Day Holiday,Public Holiday
 oman,22 de Dez,December Solstice,Season
 pakistan,1 de Jan,New Year's Day,Optional Holiday
 pakistan,3 de Jan,January 1 Bank Holiday,Bank Holiday
@@ -4613,7 +4632,7 @@ pakistan,9 de Out,Birthday of Guru Balmik Sawami Ji,Optional Holiday
 pakistan,24 de Out,Diwali/Deepavali,Optional Holiday
 pakistan,7 de Nov,Giarhwin Sharief (Tentative Date),Optional Holiday
 pakistan,8 de Nov,Guru Nanak's Birthday,Optional Holiday
-pakistan,9 de Nov,Iqbal Day,Observance
+pakistan,9 de Nov,Iqbal Day,Public Holiday
 pakistan,22 de Dez,December Solstice,Season
 pakistan,24 de Dez,Christmas Eve,Observance
 pakistan,25 de Dez,Christmas Day,Public Holiday
@@ -4775,6 +4794,7 @@ philippines,3 de Set,Yamashita Surrender Day,Special Working Day
 philippines,8 de Set,Feast of the Nativity of Mary,Special Working Day
 philippines,23 de Set,September Equinox,Season
 philippines,8 de Out,Maulid un-Nabi,Common local holiday
+philippines,31 de Out,Special Family Ties and Domestic Tourism Day,Special Non-working Holiday
 philippines,1 de Nov,All Saints' Day,Special Non-working Holiday
 philippines,2 de Nov,All Souls' Day,Special Working Day
 philippines,30 de Nov,Bonifacio Day,Regular Holiday
@@ -5551,10 +5571,12 @@ south-korea,15 de Ago,Liberation Day,National holiday
 south-korea,9 de Set,Chuseok Holiday,Public Holiday
 south-korea,10 de Set,Chuseok,Public Holiday
 south-korea,11 de Set,Chuseok Holiday,Public Holiday
+south-korea,12 de Set,Day off for Chuseok Holiday,Public Holiday
 south-korea,23 de Set,September Equinox,Season
 south-korea,1 de Out,Armed Forces Day,Observance
 south-korea,3 de Out,National Foundation Day,National holiday
 south-korea,9 de Out,Hangeul Proclamation Day,National holiday
+south-korea,10 de Out,Day off for Hangeul Proclamation Day,National holiday
 south-korea,31 de Out,Halloween,Observance
 south-korea,22 de Dez,December Solstice,Season
 south-korea,24 de Dez,Christmas Eve,Observance
@@ -5632,7 +5654,6 @@ spain,16 de Jun,Corpus Christi,Autonomous Community Holiday
 spain,21 de Jun,June Solstice,Season
 spain,24 de Jun,Saint John the Baptist Day,Autonomous Community Holiday
 spain,24 de Jun,Saint John the Baptist Day,Observance
-spain,24 de Jun,Feast of San Juan,Observance
 spain,10 de Jul,Eid al-Adha,Autonomous Community Holiday
 spain,13 de Jul,Festival of the Vaquillas,Observance
 spain,25 de Jul,Feast of Saint James the Apostle,Observance
@@ -5668,8 +5689,8 @@ spain,21 de Dez,December Solstice,Season
 spain,24 de Dez,Christmas Eve,Observance
 spain,25 de Dez,Christmas Day,Observance
 spain,26 de Dez,Day After Christmas Day,Autonomous Community Holiday
-spain,26 de Dez,St Stephen's Day,Observance
 spain,26 de Dez,St Stephen's Day,Autonomous Community Holiday
+spain,26 de Dez,St Stephen's Day,Observance
 spain,30 de Dez,Feast of the Holy Family,Observance
 spain,31 de Dez,New Year's Eve,Observance
 sri-lanka,14 de Jan,Tamil Thai Pongal Day,Public Holiday
@@ -6169,7 +6190,7 @@ turkey,30 de Ago,Victory Day,National holiday
 turkey,23 de Set,September Equinox,Season
 turkey,28 de Out,Republic Day Eve,Half Day
 turkey,29 de Out,Republic Day,National holiday
-turkey,10 de Nov,Ataturk Memorial Day,Observance
+turkey,10 de Nov,Ataturk Commemoration Day,Observance
 turkey,22 de Dez,December Solstice,Season
 turkey,31 de Dez,New Year's Eve,Observance
 turkmenistan,1 de Jan,New Year's Day,Public Holiday
@@ -6318,6 +6339,7 @@ ukraine,28 de Jul,Ukrainian Statehood Day,Observance
 ukraine,24 de Ago,Independence Day (Suspended),Suspended National Holiday
 ukraine,23 de Set,September Equinox,Season
 ukraine,14 de Out,Day of Defenders and Defenders of Ukraine (Suspended),Suspended National Holiday
+ukraine,28 de Out,Day of Liberation of Ukraine from Fascist Invaders,Observance
 ukraine,30 de Out,Daylight Saving Time ends,Clock change/Daylight Saving Time
 ukraine,9 de Nov,Cultural Workers and Folk Artists Day,Observance
 ukraine,21 de Nov,Dignity and Freedom Day,Observance
@@ -6456,8 +6478,8 @@ uk,26 de Dez,Boxing Day,Bank Holiday
 uk,27 de Dez,Substitute Bank Holiday for Christmas Day,Bank Holiday
 uk,31 de Dez,New Year's Eve,Observance
 us,1 de Jan,New Year's Day,State Holiday
-us,1 de Jan,New Year's Day,Federal Holiday
 us,1 de Jan,New Year's Day,State Holiday
+us,1 de Jan,New Year's Day,Federal Holiday
 us,3 de Jan,New Year's Day (substitute),State Holiday
 us,4 de Jan,World Braille Day,United Nations observance
 us,6 de Jan,Epiphany,Christian
@@ -6469,8 +6491,8 @@ us,13 de Jan,Stephen Foster Memorial Day,Observance
 us,14 de Jan,Orthodox New Year,Orthodox
 us,16 de Jan,World Religion Day,Worldwide observance
 us,17 de Jan,Tu Bishvat/Tu B'Shevat,Jewish holiday
-us,17 de Jan,Martin Luther King Jr. Day,State Holiday
 us,17 de Jan,Martin Luther King Jr. Day,Federal Holiday
+us,17 de Jan,Martin Luther King Jr. Day,State Holiday
 us,17 de Jan,Robert E. Lee's Birthday,State Holiday
 us,17 de Jan,Idaho Human Rights Day,State Holiday
 us,17 de Jan,Civil Rights Day,State Holiday
@@ -6490,8 +6512,8 @@ us,2 de Fev,Groundhog Day,Observance
 us,2 de Fev,National Girls and Women in Sports Day,Observance
 us,4 de Fev,International Day of Human Fraternity,United Nations observance
 us,4 de Fev,World Cancer Day,Worldwide observance
-us,4 de Fev,Rosa Parks Day,State Observance
 us,4 de Fev,Rosa Parks Day,Local observance
+us,4 de Fev,Rosa Parks Day,State Observance
 us,4 de Fev,National Wear Red Day,Observance
 us,6 de Fev,International Day of Zero Tolerance for Female Genital Mutilation,United Nations observance
 us,6 de Fev,Ronald Reagan Day,State Observance
@@ -6649,8 +6671,8 @@ us,5 de Mai,National Day of Prayer,Observance
 us,5 de Mai,West Virginia Day of Prayer,State Observance
 us,6 de Mai,Kentucky Oaks,Sporting event
 us,6 de Mai,National Nurses Day,Observance
-us,6 de Mai,Military Spouse Appreciation Day,State Observance
 us,6 de Mai,Military Spouse Appreciation Day,Observance
+us,6 de Mai,Military Spouse Appreciation Day,State Observance
 us,7 de Mai,Kentucky Derby,Sporting event
 us,7 de Mai,National Explosive Ordnance Disposal (EOD) Day,Observance
 us,8 de Mai,Time of Remembrance and Reconciliation for Those Who Lost Their Lives during the Second World War,United Nations observance
@@ -6662,8 +6684,8 @@ us,8 de Mai,Truman Day,State Holiday
 us,8 de Mai,Victory in Europe Day,Observance
 us,9 de Mai,Truman Day observed,State Holiday
 us,10 de Mai,International Day of Argania,United Nations observance
-us,10 de Mai,Confederate Memorial Day,Local observance
 us,10 de Mai,Confederate Memorial Day,State Holiday
+us,10 de Mai,Confederate Memorial Day,Local observance
 us,10 de Mai,Primary Election Day,State Holiday
 us,12 de Mai,International Nurses Day,Worldwide observance
 us,13 de Mai,Friday the 13th,Worldwide observance
@@ -6736,8 +6758,8 @@ us,17 de Jun,Juneteenth (substitute),State Holiday
 us,18 de Jun,Sustainable Gastronomy Day,United Nations observance
 us,18 de Jun,Juneteenth Day,State Observance
 us,19 de Jun,International Day for the Elimination of Sexual Violence in Conflict,United Nations observance
-us,19 de Jun,Father's Day,State Holiday
 us,19 de Jun,Father's Day,Observance
+us,19 de Jun,Father's Day,State Holiday
 us,19 de Jun,Juneteenth,Federal Holiday
 us,19 de Jun,Juneteenth National Freedom Day,State Observance
 us,19 de Jun,Juneteenth,State Holiday
@@ -6763,8 +6785,8 @@ us,29 de Jun,International Day of the Tropics,United Nations observance
 us,30 de Jun,International Asteroid Day,United Nations observance
 us,30 de Jun,International Day of Parliamentarism,United Nations observance
 us,2 de Jul,International Day of Cooperatives,United Nations observance
-us,4 de Jul,Independence Day,State Holiday
 us,4 de Jul,Independence Day,Federal Holiday
+us,4 de Jul,Independence Day,State Holiday
 us,9 de Jul,Eid al-Adha,Muslim
 us,11 de Jul,World Population Day,United Nations observance
 us,13 de Jul,Nathan Bedford Forrest Day,Local observance
@@ -6788,8 +6810,8 @@ us,4 de Ago,Coast Guard Birthday,Observance
 us,4 de Ago,Barack Obama Day,Observance
 us,7 de Ago,Tisha B'Av,Jewish holiday
 us,7 de Ago,American Family Day,State Holiday
-us,7 de Ago,Purple Heart Day,State Observance
 us,7 de Ago,Purple Heart Day,Observance
+us,7 de Ago,Purple Heart Day,State Observance
 us,8 de Ago,Ashura (Tentative Date),Muslim
 us,8 de Ago,Victory Day,State Holiday
 us,9 de Ago,International Day of the World's Indigenous People,United Nations observance
@@ -6815,8 +6837,8 @@ us,31 de Ago,International Day for People of African Descent,United Nations obse
 us,31 de Ago,International Overdose Awareness Day,Worldwide observance
 us,4 de Set,World Sexual Health Day,Worldwide observance
 us,5 de Set,International Day of Charity,United Nations observance
-us,5 de Set,Labor Day,Federal Holiday
 us,5 de Set,Labor Day,State Holiday
+us,5 de Set,Labor Day,Federal Holiday
 us,7 de Set,International Day of Clean Air for Blue Skies,United Nations observance
 us,7 de Set,Still's Disease Awareness Day,Worldwide observance
 us,8 de Set,International Literacy Day,United Nations observance
@@ -6826,8 +6848,8 @@ us,10 de Set,World Suicide Prevention Day,Worldwide observance
 us,10 de Set,Carl Garner Federal Lands Cleanup Day,Observance
 us,10 de Set,Native American Day,State Observance
 us,11 de Set,First Responders Day,State Observance
-us,11 de Set,Patriot Day,Observance
 us,11 de Set,Patriot Day,State Observance
+us,11 de Set,Patriot Day,Observance
 us,11 de Set,National Grandparents Day,Observance
 us,11 de Set,Constitution Commemoration Day,State Holiday
 us,12 de Set,International Day for South-South Cooperation,United Nations observance
@@ -6886,17 +6908,17 @@ us,9 de Out,Leif Erikson Day,Observance
 us,9 de Out,Chicago Marathon,Sporting event
 us,10 de Out,First Day of Sukkot,Jewish holiday
 us,10 de Out,World Mental Health Day,United Nations observance
-us,10 de Out,Columbus Day,State Legal Holiday
-us,10 de Out,Columbus Day,State Holiday
 us,10 de Out,Columbus Day,Federal Holiday
+us,10 de Out,Columbus Day,State Holiday
+us,10 de Out,Columbus Day,State Legal Holiday
 us,10 de Out,Fraternal Day,State Holiday
 us,10 de Out,Yorktown Victory Day,State Holiday
 us,10 de Out,Discoverers’ Day,State Observance
-us,10 de Out,Native American Day,State Observance
 us,10 de Out,Native American Day,State Holiday
+us,10 de Out,Native American Day,State Observance
 us,10 de Out,Indigenous People's Day (Tentative Date),State Observance
-us,10 de Out,Indigenous People's Day,State Observance
 us,10 de Out,Indigenous People's Day,State Holiday
+us,10 de Out,Indigenous People's Day,State Observance
 us,10 de Out,American Indian Heritage Day,State Holiday
 us,11 de Out,International Day of the Girl Child,United Nations observance
 us,11 de Out,Casimir Pulaski Day,State Observance
@@ -6952,6 +6974,7 @@ us,20 de Nov,World Day of Remembrance for Road Traffic Victims,United Nations ob
 us,20 de Nov,Universal Children's Day,United Nations observance
 us,20 de Nov,Africa Industrialization Day,United Nations observance
 us,21 de Nov,World Television Day,United Nations observance
+us,23 de Nov,Thanksgiving Holiday,State Holiday
 us,24 de Nov,Thanksgiving Day,State Holiday
 us,24 de Nov,Thanksgiving Day,Federal Holiday
 us,25 de Nov,International Day for the Elimination of Violence against Women,United Nations observance
@@ -6961,8 +6984,8 @@ us,25 de Nov,Lincoln's Birthday/Lincoln's Day,State Holiday
 us,25 de Nov,Day After Thanksgiving,State Holiday
 us,25 de Nov,Black Friday,Observance
 us,25 de Nov,American Indian Heritage Day,State Holiday
-us,25 de Nov,Native American Heritage Day,Observance
 us,25 de Nov,Native American Heritage Day,State Holiday
+us,25 de Nov,Native American Heritage Day,Observance
 us,27 de Nov,First Sunday of Advent,Christian
 us,28 de Nov,Cyber Monday,Observance
 us,29 de Nov,International Day of Solidarity with the Palestinian People,United Nations observance
@@ -7001,18 +7024,20 @@ us,19 de Dez,Chanukah/Hanukkah (first day),Jewish holiday
 us,20 de Dez,International Human Solidarity Day,United Nations observance
 us,21 de Dez,December Solstice,Season
 us,23 de Dez,Christmas Eve observed,State Holiday
+us,23 de Dez,Christmas Holiday,State Holiday
 us,24 de Dez,Christmas Eve,State Holiday
 us,24 de Dez,Christmas Eve,"Observance, Christian"
 us,25 de Dez,Christmas Day,State Holiday
-us,25 de Dez,Christmas Day,State Holiday
 us,25 de Dez,Christmas Day,Federal Holiday
+us,25 de Dez,Christmas Day,State Holiday
 us,26 de Dez,Last Day of Chanukah,Jewish holiday
 us,26 de Dez,Kwanzaa (first day),Observance
-us,26 de Dez,Christmas Day (substitute),State Holiday
 us,26 de Dez,Christmas Day (substitute),Federal Holiday
+us,26 de Dez,Christmas Day (substitute),State Holiday
 us,26 de Dez,Day After Christmas Day,State Holiday
 us,27 de Dez,International Day of Epidemic Preparedness,United Nations observance
 us,30 de Dez,New Year's Eve observed,State Holiday
+us,30 de Dez,New Year Holiday,State Holiday
 us,31 de Dez,New Year's Eve,State Holiday
 us,31 de Dez,New Year's Eve,Observance
 uruguay,1 de Jan,New Year's Day,National holiday
@@ -7111,6 +7136,7 @@ vanuatu,30 de Jul,Independence Day,Public Holiday
 vanuatu,15 de Ago,Assumption of Mary,Public Holiday
 vanuatu,23 de Set,September Equinox,Season
 vanuatu,5 de Out,Constitution Day,Public Holiday
+vanuatu,13 de Out,Election Day,Public Holiday
 vanuatu,29 de Nov,Unity Day,Public Holiday
 vanuatu,22 de Dez,December Solstice,Season
 vanuatu,25 de Dez,Christmas Day,Public Holiday
